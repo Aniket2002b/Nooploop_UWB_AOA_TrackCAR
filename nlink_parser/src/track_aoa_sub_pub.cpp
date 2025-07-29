@@ -16,7 +16,7 @@ std::string data, state, result;
 char ch;
 
 
-//http://blog.sina.com.cn/s/blog_53a7da550102y772.html  标准键盘码值表-十六进制
+//http://blog.sina.com.cn/s/blog_53a7da550102y772.html  标准键盘码值表-十六
 
 const unsigned char header[2] = {0x4C,0x4F};   //L、O
 const unsigned char ender[2] = {0x56, 0x45};    //V、E
